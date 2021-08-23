@@ -1,0 +1,7 @@
+{
+    "host" : "127.0.0.1",
+    "user" : "eng_kor",
+    "password" : "password",
+    "port": "3308",
+    "database" : "eng_kor"
+}
